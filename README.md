@@ -14,14 +14,12 @@ This USB hub features:
 
 ## Specifications
 
-| Feature | Details |
-|----------|----------|
-| Hub Controller | GL850G |
-| USB Standard | USB 2.0 |
-| Maximum Speed | 480 Mbps |
-| Upstream Ports | 1 |
-| USB-A Ports | 2 |
-| USB-C Ports | 2 |
+- Hub Controller - GL850G 
+- USB Standard - USB 2.0
+- Maximum Speed - 480 Mbps
+- Upstream Ports - 1 
+- USB-A Ports - 2 
+- USB-C Ports - 2 
 
 ## Schematic
 
