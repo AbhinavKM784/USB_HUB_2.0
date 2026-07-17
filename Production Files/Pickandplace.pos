@@ -1,0 +1,34 @@
+### Footprint positions - created on 2026-07-18T00:30:38 ###
+### Printed by KiCad version 10.0.4
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                          Package                                       PosX       PosY       Rot  Side
+C1        10uf                         C_0805_2012Metric                         161.4932  -102.1480    0.0000  top
+C2        1uf                          C_0805_2012Metric                         130.2562   -85.2980   90.0000  top
+C3        1uf                          C_0805_2012Metric                         129.9870  -109.8344    0.0000  top
+C4        1uf                          C_0805_2012Metric                         167.4368  -121.1580  180.0000  top
+C5        1uf                          C_0805_2012Metric                         168.2588   -97.6016  180.0000  top
+C6        22pf                         C_0805_2012Metric                         135.3820  -100.8364  -90.0000  top
+C7        22pf                         C_0805_2012Metric                         135.3820  -106.1196  -90.0000  top
+C8        10uf                         C_0805_2012Metric                         151.5872   -96.5708   90.0000  top
+C9        100nf                        C_0805_2012Metric                         148.3868   -95.5040   90.0000  top
+C10       100nf                        C_0805_2012Metric                         146.9644  -109.8804  -90.0000  top
+C11       100nf                        C_0805_2012Metric                         159.6136  -107.8484    0.0000  top
+C12       100nf                        C_0805_2012Metric                         145.0848  -101.7524  180.0000  top
+C13       100nf                        C_0805_2012Metric                         161.4932  -104.6480    0.0000  top
+GL850G1   GL850G                       28SSOP                                    153.1620  -103.6320  -90.0000  top
+J1        USB_C_Receptacle_USB2.0_16P  USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A   153.6192   -80.6660  180.0000  top
+J2        USB_C_Receptacle_USB2.0_16P  USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A   123.9966  -118.3874  -90.0000  top
+J3        USB_C_Receptacle_USB2.0_16P  USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A   123.7426   -92.6064  -90.0000  top
+J4        USB_A                        USB_A_Molex_67643_Horizontal              173.8488   -96.1016   90.0000  top
+J5        USB_A                        USB_A_Molex_67643_Horizontal              173.8708  -120.8566   90.0000  top
+R1        5.1k                         R_0805_2012Metric                         155.3972   -89.2048  -90.0000  top
+R2        5.1k                         R_0805_2012Metric                         151.6748   -89.2677  -90.0000  top
+R3        5.1k                         R_0805_2012Metric                         132.1339  -114.7112    0.0000  top
+R4        5.1k                         R_0805_2012Metric                         132.2882  -119.1308    0.0000  top
+R5        5.1k                         R_0805_2012Metric                         132.2882   -90.5304    0.0000  top
+R6        5.1k                         R_0805_2012Metric                         131.5243   -93.9340    0.0000  top
+R7        680                          R_0805_2012Metric                         145.0340   -99.4664  180.0000  top
+R8        10k                          R_0805_2012Metric                         152.8572  -109.6772  180.0000  top
+Y1        12_mhz                       Crystal_HC49-U_Vertical                   139.5984  -100.0728  -90.0000  top
+## End
