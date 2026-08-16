@@ -94,7 +94,8 @@ This USB hub features:
 
 ## 3D Model
 
-<img width="1356" height="981" alt="image" src="https://github.com/user-attachments/assets/30a6b971-10fe-4a01-993d-834e609cc570" />
+<img width="878" height="638" alt="image" src="https://github.com/user-attachments/assets/e0cfd910-23f5-4c24-a522-3f8c488b7e58" />
+
 
 <img width="1269" height="967" alt="image" src="https://github.com/user-attachments/assets/59c6e8c6-385b-4b89-b1c2-a93cb3e6b472" />
 
