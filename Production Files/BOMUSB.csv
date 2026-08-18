@@ -1,0 +1,29 @@
+﻿PARTS,,,,,,
+Sl no,Component,Value / Part,Qty,Link,Price (Inr),Price(USD)
+1,PCB,Fabricated by lionscircuit,1,https://www.lioncircuits.com/,1012,10.626
+2,Capacitor,10 µF,2,https://www.ktron.in/product/10uf-25v-ceramic-capacitor-smd-0805/,21.6,0.2268
+3,Capacitor,1 µF,4,https://robu.in/product/gcm21br71e105ka56k-murata-electronics-25v-1uf-x7r-%c2%b110-0805-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/,21.1,0.22155
+4,Capacitor,22 pF,2,https://www.ktron.in/product/22pf-100v-multi-layered-ceramic-capacitor/,20,0.21
+5,Capacitor,100 nF,5,https://www.ktron.in/product/100nf-100v-ceramic-capacitor-0805/,19,0.1995
+6,USB IC,GL850G,1,https://hubtronics.in/1884,84,0.882
+7,USB-C Receptacle,"USB 2.0, 16P",3,https://www.ktron.in/product/mup-u20401-03-usb-type-c-16-pin-smd-connector/,71,0.7455
+8,USB-A Receptacle,Molex 67643,2,https://www.ktron.in/product/usb-type-a-female-connector/,15,0.1575
+9,Resistor,5.1 kΩ,6,https://robu.in/product/erj6geyj512v-panasonic-125mw-thick-film-resistors-%c2%b15-%c2%b1200ppm-%e2%84%83-5-1k%cf%89-0805-chip-resistor-surface-mount-rohs/,11,0.1155
+10,Resistor,680 Ω,1,https://robu.in/product/rt0805fre07680rl-yageo-125mw-thin-film-resistor-%c2%b150ppm-%e2%84%83-%c2%b11-680%cf%89-0805-chip-resistor-surface-mount-rohs/,13,0.1365
+11,Resistor,10 kΩ,1,https://robu.in/product/ac0805jr-0710kl-yageo-res-thick-film-0805-10k-ohm-5-0-125w1-8w-%c2%b1100ppm-c-pad-smd-t-r-automotive-aec-q200/,11,0.1155
+12,Crystal,12 MHz,1,https://www.ktron.in/product/12-mhz-crystal-smd-hc49smd-yxc/,24,0.252
+13,Soldering Wire,40/60 0.8mm,1,https://robu.in/product/tin-wire-soldering-tubeus-0-8mm-40-60-8gram/,53,0.5565
+14,Magnets,3mm Diameter Neodymium Disc Magnets N35,8,https://onlyscrews.in/products/3mm-x-3mm-neodymium-disc-magnets-n35-dia-3mm-thickness-3mm?variant=51058518262073,76,0.798
+15,m2 screws,M2 X 8mm Phillips CSK,5,https://onlyscrews.in/products/m2-x-8mm-phillips-csk-ss-304-screw-dia-2mm-length-8mm?variant=51155018514745,8,0.084
+16,m2 brass inserts,M2 X 6mm Brass Threaded Inserts,5,https://onlyscrews.in/products/m2-x-6mm-brass-threaded-inserts?variant=49423242101049,12,0.126
+,Total,,,,1471.7,15.45285
+,,,,,,
+Shipping,,,,,,
+,Companies,INR,USD,,,
+,Hubtronics,75,0.7875,,,
+,Robu,50,0.525,,,
+,Ktron,77,0.8085,,,
+,OnlyScrews,69,0.7245,,,
+,Total,202,2.121,,,
+,,,,,,
+,Combined total,1673.7,17.57385,,,
